@@ -1,0 +1,1309 @@
+fileFormatVersion: 2
+guid: 9bdc5d502aee8fa45b8a92ab2a97ecc6
+timeCreated: 1450814839
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hyptosis_sprites-and-tiles-for-you_0
+    21300002: hyptosis_sprites-and-tiles-for-you_1
+    21300004: hyptosis_sprites-and-tiles-for-you_2
+    21300006: hyptosis_sprites-and-tiles-for-you_3
+    21300008: hyptosis_sprites-and-tiles-for-you_4
+    21300010: hyptosis_sprites-and-tiles-for-you_5
+    21300012: hyptosis_sprites-and-tiles-for-you_6
+    21300014: hyptosis_sprites-and-tiles-for-you_7
+    21300016: hyptosis_sprites-and-tiles-for-you_8
+    21300018: hyptosis_sprites-and-tiles-for-you_9
+    21300020: hyptosis_sprites-and-tiles-for-you_10
+    21300022: hyptosis_sprites-and-tiles-for-you_11
+    21300024: hyptosis_sprites-and-tiles-for-you_12
+    21300026: hyptosis_sprites-and-tiles-for-you_13
+    21300028: hyptosis_sprites-and-tiles-for-you_14
+    21300030: hyptosis_sprites-and-tiles-for-you_15
+    21300032: hyptosis_sprites-and-tiles-for-you_16
+    21300034: hyptosis_sprites-and-tiles-for-you_17
+    21300036: hyptosis_sprites-and-tiles-for-you_18
+    21300038: hyptosis_sprites-and-tiles-for-you_19
+    21300040: hyptosis_sprites-and-tiles-for-you_20
+    21300042: hyptosis_sprites-and-tiles-for-you_21
+    21300044: hyptosis_sprites-and-tiles-for-you_22
+    21300046: hyptosis_sprites-and-tiles-for-you_23
+    21300048: hyptosis_sprites-and-tiles-for-you_24
+    21300050: hyptosis_sprites-and-tiles-for-you_25
+    21300052: hyptosis_sprites-and-tiles-for-you_26
+    21300054: hyptosis_sprites-and-tiles-for-you_27
+    21300056: hyptosis_sprites-and-tiles-for-you_28
+    21300058: hyptosis_sprites-and-tiles-for-you_29
+    21300060: hyptosis_sprites-and-tiles-for-you_30
+    21300062: hyptosis_sprites-and-tiles-for-you_31
+    21300064: hyptosis_sprites-and-tiles-for-you_32
+    21300066: hyptosis_sprites-and-tiles-for-you_33
+    21300068: hyptosis_sprites-and-tiles-for-you_34
+    21300070: hyptosis_sprites-and-tiles-for-you_35
+    21300072: hyptosis_sprites-and-tiles-for-you_36
+    21300074: hyptosis_sprites-and-tiles-for-you_37
+    21300076: hyptosis_sprites-and-tiles-for-you_38
+    21300078: hyptosis_sprites-and-tiles-for-you_39
+    21300080: hyptosis_sprites-and-tiles-for-you_40
+    21300082: hyptosis_sprites-and-tiles-for-you_41
+    21300084: hyptosis_sprites-and-tiles-for-you_42
+    21300086: hyptosis_sprites-and-tiles-for-you_43
+    21300088: hyptosis_sprites-and-tiles-for-you_44
+    21300090: hyptosis_sprites-and-tiles-for-you_45
+    21300092: hyptosis_sprites-and-tiles-for-you_46
+    21300094: hyptosis_sprites-and-tiles-for-you_47
+    21300096: hyptosis_sprites-and-tiles-for-you_48
+    21300098: hyptosis_sprites-and-tiles-for-you_49
+    21300100: hyptosis_sprites-and-tiles-for-you_50
+    21300102: hyptosis_sprites-and-tiles-for-you_51
+    21300104: hyptosis_sprites-and-tiles-for-you_52
+    21300106: hyptosis_sprites-and-tiles-for-you_53
+    21300108: hyptosis_sprites-and-tiles-for-you_54
+    21300110: hyptosis_sprites-and-tiles-for-you_55
+    21300112: hyptosis_sprites-and-tiles-for-you_56
+    21300114: hyptosis_sprites-and-tiles-for-you_57
+    21300116: hyptosis_sprites-and-tiles-for-you_58
+    21300118: hyptosis_sprites-and-tiles-for-you_59
+    21300120: hyptosis_sprites-and-tiles-for-you_60
+    21300122: hyptosis_sprites-and-tiles-for-you_61
+    21300124: hyptosis_sprites-and-tiles-for-you_62
+    21300126: hyptosis_sprites-and-tiles-for-you_63
+    21300128: hyptosis_sprites-and-tiles-for-you_64
+    21300130: hyptosis_sprites-and-tiles-for-you_65
+    21300132: hyptosis_sprites-and-tiles-for-you_66
+    21300134: hyptosis_sprites-and-tiles-for-you_67
+    21300136: hyptosis_sprites-and-tiles-for-you_68
+    21300138: hyptosis_sprites-and-tiles-for-you_69
+    21300140: hyptosis_sprites-and-tiles-for-you_70
+    21300142: hyptosis_sprites-and-tiles-for-you_71
+    21300144: hyptosis_sprites-and-tiles-for-you_72
+    21300146: hyptosis_sprites-and-tiles-for-you_73
+    21300148: hyptosis_sprites-and-tiles-for-you_74
+    21300150: hyptosis_sprites-and-tiles-for-you_75
+    21300152: hyptosis_sprites-and-tiles-for-you_76
+    21300154: hyptosis_sprites-and-tiles-for-you_77
+    21300156: hyptosis_sprites-and-tiles-for-you_78
+    21300158: hyptosis_sprites-and-tiles-for-you_79
+    21300160: hyptosis_sprites-and-tiles-for-you_80
+    21300162: hyptosis_sprites-and-tiles-for-you_81
+    21300164: hyptosis_sprites-and-tiles-for-you_82
+    21300166: hyptosis_sprites-and-tiles-for-you_83
+    21300168: hyptosis_sprites-and-tiles-for-you_84
+    21300170: hyptosis_sprites-and-tiles-for-you_85
+    21300172: hyptosis_sprites-and-tiles-for-you_86
+    21300174: hyptosis_sprites-and-tiles-for-you_87
+    21300176: hyptosis_sprites-and-tiles-for-you_88
+    21300178: hyptosis_sprites-and-tiles-for-you_89
+    21300180: hyptosis_sprites-and-tiles-for-you_90
+    21300182: hyptosis_sprites-and-tiles-for-you_91
+    21300184: hyptosis_sprites-and-tiles-for-you_92
+    21300186: hyptosis_sprites-and-tiles-for-you_93
+    21300188: hyptosis_sprites-and-tiles-for-you_94
+    21300190: hyptosis_sprites-and-tiles-for-you_95
+    21300192: hyptosis_sprites-and-tiles-for-you_96
+    21300194: hyptosis_sprites-and-tiles-for-you_97
+    21300196: hyptosis_sprites-and-tiles-for-you_98
+    21300198: hyptosis_sprites-and-tiles-for-you_99
+    21300200: hyptosis_sprites-and-tiles-for-you_100
+    21300202: hyptosis_sprites-and-tiles-for-you_101
+    21300204: hyptosis_sprites-and-tiles-for-you_102
+    21300206: hyptosis_sprites-and-tiles-for-you_103
+    21300208: hyptosis_sprites-and-tiles-for-you_104
+    21300210: hyptosis_sprites-and-tiles-for-you_105
+    21300212: hyptosis_sprites-and-tiles-for-you_106
+    21300214: hyptosis_sprites-and-tiles-for-you_107
+    21300216: hyptosis_sprites-and-tiles-for-you_108
+    21300218: hyptosis_sprites-and-tiles-for-you_109
+    21300220: hyptosis_sprites-and-tiles-for-you_110
+    21300222: hyptosis_sprites-and-tiles-for-you_111
+    21300224: hyptosis_sprites-and-tiles-for-you_112
+    21300226: hyptosis_sprites-and-tiles-for-you_113
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hyptosis_sprites-and-tiles-for-you_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 858
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 858
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 857
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 856
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 856
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 857
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 858
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 858
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 856
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_9
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 857
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_10
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 857
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_11
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 814
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 775
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 775
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 775
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 775
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 775
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 775
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 775
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 775
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_20
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 775
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 775
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_22
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 775
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_23
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 775
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_24
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 775
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 710
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 710
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_27
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 710
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 710
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 743
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 743
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_31
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 678
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 678
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_33
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 678
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 678
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_35
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 678
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_36
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 678
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_37
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 678
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_38
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 678
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_39
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 807
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_40
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 807
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_41
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 807
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_42
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 807
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_43
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 807
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_44
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 807
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_45
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 646
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_46
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 646
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_47
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 614
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 614
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_49
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_50
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_51
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 610
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_52
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 612
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_53
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 610
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_54
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 610
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_55
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 610
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_56
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 609
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_57
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 610
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_58
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 610
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_59
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 610
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_60
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 610
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_61
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 610
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_62
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 610
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_63
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_64
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_65
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_66
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_67
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_68
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_69
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_70
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_71
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_72
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_73
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_74
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_75
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_76
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_77
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_78
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_79
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_80
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_81
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_82
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_83
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_84
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_85
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_86
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_87
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_88
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_89
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_90
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_91
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_92
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_93
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_94
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_95
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_96
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_97
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 78
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_98
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 78
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_99
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 78
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_100
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 78
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_101
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 78
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_102
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 78
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_103
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 46
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_104
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 46
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_105
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 46
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_106
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 46
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_107
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 475
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_108
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 475
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_109
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 475
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_110
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 475
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_111
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 475
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hyptosis_sprites-and-tiles-for-you_113
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 473
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
